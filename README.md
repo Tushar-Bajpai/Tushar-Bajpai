@@ -18,15 +18,6 @@
 ⚡ Fun fact **I love Anime**
 
  </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-bajpai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-bajpai" alt="tushar-bajpai" /></a> </p>
-
-- 🌱 I’m currently learning **React, Next.js**
-
-- 📫 How to reach me **bajpaitusharrock99@gmail.com**
-
-- ⚡ Fun fact **I am quite humorous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +42,11 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-bajpai" /> </p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=tushar-bajpai&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=tushar-bajpai" alt="tushar-bajpai" /></a> </p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-bajpai&show_icons=true&theme=radical" alt="tushar-bajpai" /></p>
 
