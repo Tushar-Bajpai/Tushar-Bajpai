@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Frontend+Developer;I%27m+an+Engineer;I%27m+an+anime%lover"></p>
+    <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Frontend+Developer;I%27m+an+Engineer;I%27m+an+anime+lover"></p>
 
 
 </h1>
