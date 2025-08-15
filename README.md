@@ -57,5 +57,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-bajpai&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tushar-bajpai&theme=radical)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-bajpai&show_icons=true&theme=radical" alt="tushar-bajpai" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-bajpai&theme=radical" alt="GitHub Streak" /></a>
