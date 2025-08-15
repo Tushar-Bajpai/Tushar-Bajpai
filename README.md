@@ -2,8 +2,6 @@
 
 <h1 align="center">
     <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Frontend+Developer;I%27m+an+Engineer;I%27m+an+anime+lover"></p>
-
-
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
