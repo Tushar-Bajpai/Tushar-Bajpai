@@ -19,6 +19,8 @@
 
  </div>
 
+ <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <div align="center"> 
@@ -49,9 +51,13 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-bajpai" /> </p>
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=tushar-bajpai&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=tushar-bajpai" alt="tushar-bajpai" /></a> </p>
+<a href="https://github-trophies.vercel.app/?username=tushar-bajpai" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=tushar-bajpai&theme=radical&margin-w=4&margin-h=4">
+</a>
+
 
 
 
