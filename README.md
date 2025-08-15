@@ -61,6 +61,66 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-bajpai&show_icons=true&theme=radical" alt="tushar-bajpai" /></p>
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-bajpai&theme=radical" alt="GitHub Streak" /></a>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=tushar-bajpai">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-bajpai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-bajpai">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-bajpai&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bajpai">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bajpai&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-bajpai">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-bajpai&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-bajpai&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-bajpai&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-bajpai">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-bajpai&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-bajpai">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-bajpai&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
